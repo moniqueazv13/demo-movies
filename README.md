@@ -9,6 +9,6 @@ Este repositório consiste na implementação de uma aplicação, utilizando a l
 - Springframework
 - Entre outras.
 ### Testes Unitários ✔️
-Para os testes Unitários, foi utilizado JUnit4 e MockK.
+- Para os testes Unitários, foi utilizado JUnit4 e MockK.
 ### Melhorias futuras ✔️
 - Modularização
